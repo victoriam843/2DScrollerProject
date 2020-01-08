@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MeteorBehaviour.cs" />
+    <Compile Include="Assets\Scripts\NewScript.cs" />
     <Compile Include="Assets\Scripts\playerInteraction.cs" />
     <Compile Include="Assets\Scripts\ScoreScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
